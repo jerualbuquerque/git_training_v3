@@ -1,3 +1,4 @@
 This is sample file 2
 Commit revert Commit 1
 This compare lecture. Change in file 2
+This is Stash lecture , change in file 2
